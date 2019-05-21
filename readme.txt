@@ -6,3 +6,5 @@ After the close down of Fuze Company, which is the manufactor of Fuze F1 Game Co
 However, we found the controller is still usable on a PC. So we gonna to make the controller work again on a PC.
 
 This project is still WIP. I don't know if we could finish the project, but we gonna try.
+
+Special Thanks to: mumumusuc
